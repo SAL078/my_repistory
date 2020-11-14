@@ -1,0 +1,42 @@
+<html>
+<head><style></style></head>
+<body background="giphy.gif" width = "5000" heigh ="1000">
+<u><i><br><h1>
+<font color ="#ffw7">
+<p align="center">بسم الله الرحمن الرحيم </h1></p></i></u></font>
+<B><br><h1>
+<p align="wriht"></p><img>
+<p align="left"><img src="200.gif" width = "200" heigh ="200"></p></img>
+<font color ="#ff987">
+<p align="center">
+كلية الامارت للعلوم و التكنولوجيا</h1></p></B></font></img>
+<h2><br>
+<font color ="#ff987">
+<p align="center">قسم تقنية المعلومات</h2></p></font>
+<font face="impact"size="15" color="12">
+<font color ="#0uu09">
+<p align="middle">
+الاسم : صلاح الدين عبد المولي علي محمد</font></p>
+<font face="impact"size="12">
+<font color ="wihopdc">
+<p align="iddle">السكن :الخرطوم,الحاج يوسف ,م3 البشير </font></p>
+<font face="impact"size="12" color="534">
+<font color ="#fgjg7">
+<p align="middle">العمر:21 سنة</font></p>
+<font face="impact"size="12" color="445">
+<font color ="oouhd">
+<p align="middle">تاريخ الميلاد:1/1/200</font></p>
+<font face="impact"size="12">
+<font color ="#oodg7">
+<p align="middle">الكلية : الامارات للعلوم و التكنولوجيا</font></p> 
+<font face="impact"size="12" color="76">
+<font color ="#ffkfj">
+<p align="middle">المستوي : الثالث</font></p>
+<font face="impact"size="12" color="875">
+<font color ="#ffoopp">
+<p align="middle">الفصل الدراسي : الخامس</font></p>
+<font face="impact"size="12" color="876">
+<font color ="#33##">
+<p align="middle">رقم الهاتف : 0920995343</font></p>
+</body>
+</html>
